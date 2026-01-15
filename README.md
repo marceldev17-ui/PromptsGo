@@ -1,3 +1,11 @@
+Ferramenta para Criadores de anúncios e Agências de Marketing, feita pelo IA Studio.
+Foi criada como Vibe Coding, e feito tudo pela ferramenta de IA =  IA Studio Google 
+
+App Premium
+App cria Posts e Hashtags - Calendário de até 30 dias de planejamento para anúncios - Roteiros para vídeos - 
+criador de imagem com a logo da Marca de cliente - Edita suas imagens, salva imagens e possui um Histórico das imagens que ficam no App - Análise de anúncios para correção ou refinamento - um Assistente de Ai para ajudar nas suas dúvidas - minha biblioteca onde ficam salvos seus dados como imagens criadas.  
+
+
 [README.md](https://github.com/user-attachments/files/24557285/README.md)
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
